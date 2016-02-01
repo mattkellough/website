@@ -2636,8 +2636,12 @@
 
 		.wrapper.style1 {
 			background-color: #21b2a6;
-			color: #c7ebe8;
+			color: #303841;
 		}
+
+    .wrapper.style1 a:hover {
+    color: #ffffff;
+    }
 
 			.wrapper.style1 strong, .wrapper.style1 b {
 				color: #ffffff;
@@ -3634,6 +3638,9 @@
 		text-align: center;
 	}
 
+
+
+
 		#main > header h2 {
 			font-size: 1.75em;
 			margin: 0 0 0.5em 0;
@@ -3691,6 +3698,10 @@
 		background-attachment: scroll;
 	}
 
+.githubmain {
+  color: #303841;
+}
+
 /* Footer */
 
 	#footer {
@@ -3708,7 +3719,7 @@
 			}
 
 				#footer .icons a:hover {
-					color: #fff;
+					color: #19A596;
 				}
 
 		#footer .copyright {
