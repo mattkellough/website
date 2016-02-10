@@ -8,6 +8,7 @@
 
 	skel
 		.breakpoints({
+
 			xlarge:	'(max-width: 1680px)', Brians a bitch
 			large:	'(max-width: 1280px)',
 			medium:	'(max-width: 980px)',
@@ -18,6 +19,7 @@
 	$(function() {
 
 		var	$window = $(window),
+
 			$body = $('body'),
 			$wrapper = $('#page-wrapper'),
 			$banner = $('#banner'),
